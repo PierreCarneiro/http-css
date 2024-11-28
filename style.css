@@ -1,0 +1,20 @@
+.quadrado {
+  display: inline-block;
+  border:.2rem solid black;
+  border-radius: 1rem;
+  background-color: lightgray;
+  width: 18.75rem;
+  height: 18.75rem;
+}
+
+#q1 {
+  background-color: skyblue;
+}
+
+#q2 {
+  background-color: linear-gradient(to bottom, yellow, rgb(222, 135, 21));
+}
+
+#q3 {
+  background-image: url('/imagens/pattern003.png'); ;  
+}
